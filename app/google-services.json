@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702642858032",
+    "project_id": "ice-cream-roll-launcher",
+    "storage_bucket": "ice-cream-roll-launcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702642858032:android:0d5006ce950ba4dc9be5f5",
+        "android_client_info": {
+          "package_name": "com.roadpass.coinrush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBij2Ei6lA_yEwhls4y2Xb3UzCjOojUh0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702642858032:android:0c8d8b9707b8f2ee9be5f5",
+        "android_client_info": {
+          "package_name": "com.roadpass.icecreamroll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBij2Ei6lA_yEwhls4y2Xb3UzCjOojUh0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
